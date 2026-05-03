@@ -81,15 +81,12 @@ I care about details, performance, and making interfaces feel smooth and intuiti
 
 <td width="50%" align="center">
 
-<img src="https://placehold.co/600x220/020617/00d4ff?text=Travel+Guru"/>
+<img src="https://i.ibb.co.com/C35PwkFQ/Travel.png"/>
 
 ### ✈️ Travel Guru
-<sub>Travel UI</sub>
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square"/>
 
-[🌐 Live](YOUR_LIVE_LINK_2) • [💻 Code](YOUR_REPO_LINK_2)
+[🌐 Live](https://travel-guru-tour.firebaseapp.com/) • [💻 Code](YOUR_REPO_LINK_2)
 
 </td>
 
