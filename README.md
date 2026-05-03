@@ -8,23 +8,21 @@
   <img src="https://komarev.com/ghpvc/?username=MAshhabDev&label=Profile%20Views&color=00D4FF&style=flat" />
 </p>
 
----
+<h2 >🚀 About Me</h2>
 
-<h2 align="center">🚀 About Me</h2>
+💻 I’m a **Frontend Developer** who enjoys building clean, fast, and user-focused web experiences using React.
+I care about details, performance, and making interfaces feel smooth and intuitive.
 
-💻 **Frontend Developer (React)** passionate about building modern, scalable, and high-performance web applications with clean and intuitive user interfaces.  
+🌱 Right now, I’m growing into a **full-stack developer** by learning the MERN stack and building real-world applications.
 
-🌱 Currently expanding into **MERN Stack** to develop full-stack, production-ready applications.  
+🤖 I also explore **Machine Learning**, where I enjoy working with data and experimenting with intelligent solutions.
 
-🤖 Experienced in **Machine Learning** and interested in solving real-world problems using data-driven approaches.  
+⚡ I like turning ideas into working products and constantly improving my skills along the way. 
 
-📚 Dedicated to continuous learning, clean code practices, and creating impactful digital experiences.  
 
----
+<h2 >🌐 Socials</h2>
 
-<h2 align="center">🌐 Socials</h2>
-
-<p align="center">
+<p >
   <a href="https://facebook.com/Mahir.MM.40">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
   </a>
@@ -38,16 +36,14 @@
 
 ---
 
-<h2 align="center">💻 Tech Stack</h2>
+<h2>💻 Tech Stack</h2>
 
-<p align="center">
+<p >
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-<br/>
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -67,89 +63,73 @@
 <h2 align="center">🚀 Featured Projects</h2>
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3>🩺 Doctor Appointment System</h3>
-      <p>A responsive web application for booking doctor appointments with a clean and user-friendly interface.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-      </p>
-      <a href="YOUR_LIVE_LINK">🔗 Live Demo</a> |
-      <a href="YOUR_REPO_LINK">💻 Source Code</a>
-    </td>
-    <td width="50%">
-      <img src="YOUR_IMAGE_LINK" width="100%"/>
-    </td>
-  </tr>
+<tr>
 
-  <tr>
-    <td width="50%">
-      <h3>✈️ Travel Guru</h3>
-      <p>A modern travel booking UI focused on responsive design, smooth layout, and better user experience.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-      </p>
-      <a href="YOUR_LIVE_LINK">🔗 Live Demo</a> |
-      <a href="YOUR_REPO_LINK">💻 Source Code</a>
-    </td>
-    <td width="50%">
-      <img src="YOUR_IMAGE_LINK" width="100%"/>
-    </td>
-  </tr>
+<td width="50%" align="center">
+
+<img src="https://placehold.co/600x220/020617/00d4ff?text=Doctor+App"/>
+
+### 🩺 Doctor App
+<sub>Booking system</sub>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square"/>
+
+[🌐 Live](YOUR_LIVE_LINK_1) • [💻 Code](YOUR_REPO_LINK_1)
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://placehold.co/600x220/020617/00d4ff?text=Travel+Guru"/>
+
+### ✈️ Travel Guru
+<sub>Travel UI</sub>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square"/>
+
+[🌐 Live](YOUR_LIVE_LINK_2) • [💻 Code](YOUR_REPO_LINK_2)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+<img src="https://placehold.co/600x220/020617/00d4ff?text=Blog"/>
+
+### 📝 Blog
+<sub>Blog platform</sub>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square"/>
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square"/>
+
+[🌐 Live](YOUR_LIVE_LINK_3) • [💻 Code](YOUR_REPO_LINK_3)
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://placehold.co/600x220/020617/00d4ff?text=ML+Project"/>
+
+### 🤖 ML Project
+<sub>Prediction model</sub>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square"/>
+
+[🌐 Live](YOUR_LIVE_LINK_4) • [💻 Code](YOUR_REPO_LINK_4)
+
+</td>
+
+</tr>
 </table>
-
-<h2 align="center">🚀 Featured Projects</h2> <table> <tr> <td align="center" width="50%"> <img src="https://placehold.co/380x160/0d1117/00d4ff?text=Doctor" width="100%" /> <br/> <b>🩺 Doctor App</b><br/> <sub>Booking system</sub><br/><br/>
-  <p>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-  </p>
-
-  <a href="YOUR_LIVE_LINK_1">Live</a> · <a href="YOUR_REPO_LINK_1">Code</a>
-</td>
-
-<td align="center" width="50%">
-  <img src="https://placehold.co/380x160/0d1117/00d4ff?text=Travel" width="100%" />
-  <br/>
-  <b>✈️ Travel Guru</b><br/>
-  <sub>Travel UI</sub><br/><br/>
-
-  <p>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  </p>
-
-  <a href="YOUR_LIVE_LINK_2">Live</a> · <a href="YOUR_REPO_LINK_2">Code</a>
-</td>
-</tr> <tr> <td align="center" width="50%"> <img src="https://placehold.co/380x160/0d1117/00d4ff?text=Blog" width="100%" /> <br/> <b>📝 Blog</b><br/> <sub>Blog platform</sub><br/><br/>
-  <p>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-  </p>
-
-  <a href="YOUR_LIVE_LINK_3">Live</a> · <a href="YOUR_REPO_LINK_3">Code</a>
-</td>
-
-<td align="center" width="50%">
-  <img src="https://placehold.co/380x160/0d1117/00d4ff?text=ML" width="100%" />
-  <br/>
-  <b>🤖 ML Project</b><br/>
-  <sub>Prediction model</sub><br/><br/>
-
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  </p>
-
-  <a href="YOUR_LIVE_LINK_4">Live</a> · <a href="YOUR_REPO_LINK_4">Code</a>
-</td>
-</tr> </table>
-
 ---
 <h2 align="center">🏆 GitHub Trophies</h2>
 
