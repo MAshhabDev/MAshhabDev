@@ -83,6 +83,11 @@ I care about details, performance, and making interfaces feel smooth and intuiti
 
 ### ✈️ Travel Guru
 
+<sub>Booking system</sub>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square"/>
 
 [🌐 Live](https://travel-guru-tour.firebaseapp.com/) • [💻 Code](YOUR_REPO_LINK_2)
 
