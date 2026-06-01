@@ -105,7 +105,7 @@ I care about details, performance, and making interfaces feel smooth and intuiti
 <sub>Blog platform</sub>
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square"/>
 <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square"/>
 
 [🌐 Live](YOUR_LIVE_LINK_3) • [💻 Code](YOUR_REPO_LINK_3)
