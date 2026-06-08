@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00D4FF&center=true&vCenter=true&width=550&lines=Backend+Engineer;Node.js+%26+Express+Specialist;MERN+Stack+Developer;AI+Assisted+Workflows"/>
 </p>
 
-<!-- 🌐 PORTFOLIO BADGE WITH CHROME LOGO + CUSTOM TEXT -->
 <p align="center">
   <a href="https://mahir-ashhab.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Visit_My_Portfolio-090979?style=for-the-badge&logo=google-chrome&logoColor=00D4FF" alt="Portfolio Badge"/>
@@ -15,14 +14,13 @@
   <img src="https://komarev.com/ghpvc/?username=MAshhabDev&label=Profile%20Views&color=00D4FF&style=flat" />
 </p>
 
-
 <h2>🚀 About Me</h2>
 
 💻 I’m a **Full-Stack Developer** who loves bringing ideas to life through code. I enjoy working across the entire stack, bridging the gap between smooth frontend user experiences and reliable backend architecture.
 
 🎨 On the **Frontend**, I focus on creating clean, responsive, and high-performance web applications using **React, TypeScript, and Tailwind CSS**. I pay close attention to the details that make interfaces intuitive, polished, and enjoyable to use.
 
-⚙️ On the **Backend**, I have hands-on experience building RESTful APIs with **Node.js, Express.js, PostgresSQL and MongoDB**. From database design to authentication and CRUD operations, I enjoy developing scalable and maintainable server-side solutions while continuously expanding my backend expertise.
+⚙️ On the **Backend**, I have hands-on experience building RESTful APIs with **Node.js, Express.js, PostgreSQL, and MongoDB**. From database design to authentication and CRUD operations, I enjoy developing scalable and maintainable server-side solutions while continuously expanding my backend expertise.
 
 🤖 I also leverage **AI tools like Cursor, Claude, and ChatGPT** as part of my development workflow. I use them to brainstorm ideas, explore architectural approaches, speed up debugging, and improve overall productivity.
 
@@ -33,12 +31,11 @@
 ### 🛠 Tech Stack
 
 - **Frontend:** React, TypeScript, Tailwind CSS, DaisyUI
-- **Backend:** Node.js, Express.js,PostgresSQL, MongoDB, Firebase
-- **Deployment & Tools:** Git, GitHub, Vercel, Postman
+- **Backend:** Node.js, Express.js, PostgreSQL, MongoDB, Firebase, JWT
+- **Deployment & Tools:** Git, GitHub, Vercel, Postman, VS Code, Cursor
 
 ---
 ⚡ Constantly shipping real-world projects and eager to join modern engineering environments.
-
 
 <h2>🌐 Socials</h2>
 
@@ -80,75 +77,75 @@
 
 <table width="100%">
 <tr>
-<!-- CARD 1: ZAP SHIFT -->
 <td width="50%" valign="top" style="border: 1px solid #00d4ff; border-radius: 8px; padding: 15px; background: #020617;">
-  <p align="center"><img src="https://web-dev-banners.vercel.app/api?title=Zap+Shift+Logistics&subtitle=MERN+Stack+Suite&theme=dark" width="100%" alt="Zap Shift Suite" /></p>
-  <h3 align="center" style="color: #00d4ff; margin-top: 5px;">Zap Shift</h3>
-  <p align="center"><strong>Logistics & Parcel Management Suite</strong></p>
-  <p style="font-size: 13px; color: #cbd5e1;">Ecosystem built to solve complex delivery tracking tasks. Deeply optimized route data matrices and background handling states.</p>
+  <p align="center"><img src="https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?q=80&w=600" width="100%" alt="Travel Guru" /></p>
+  <h3 align="center" style="color: #00d4ff; margin-top: 5px;">Coffee Shop Backend</h3>
+  <p align="center"><strong>Modular MVC Inventory Engine</strong></p>
+  <p style="font-size: 13px; color: #cbd5e1;">Modular backend server built from scratch to manage inventory, menu workflows, and orders. Features global error handling and strict routing.</p>
   <p align="center">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
   </p>
   <hr style="border-color: #1e293b; margin: 10px 0;"/>
   <p align="center">
-    <a href="https://github.com/MAshhabDev/zip-shift-client"><code>💻 Code</code></a> &nbsp;&nbsp; 
-    <a href="https://github.com/MAshhabDev"><code>🌐 Live</code></a>
+    <a href="https://github.com/MAshhabDev/Coffee-Shop-Backend"><code>💻 Code</code></a> &nbsp;&nbsp; 
+    <a href="https://coffee-store-jet.vercel.app/"><code>🌐 Live URL</code></a>
   </p>
 </td>
 
-<!-- CARD 2: COFFEE SERVER -->
 <td width="50%" valign="top" style="border: 1px solid #00d4ff; border-radius: 8px; padding: 15px; background: #020617;">
-  <p align="center"><img src="https://web-dev-banners.vercel.app/api?title=Coffee+Server+API&subtitle=Modular+REST+Engine&theme=dark" width="100%" alt="Coffee Server API" /></p>
-  <h3 align="center" style="color: #00d4ff; margin-top: 5px;">Coffee Server</h3>
-  <p align="center"><strong>Modular REST API Engine</strong></p>
-  <p style="font-size: 13px; color: #cbd5e1;">Production-ready server platform built on structured modular clean MVC logic pipelines, global error controllers, and logging handlers.</p>
+  <p align="center"><img src="https://web-dev-banners.vercel.app/api?title=Dev+Pulse+Backend&subtitle=Relational+Architecture+REST&theme=dark" width="100%" alt="Dev Pulse Backend" /></p>
+  <h3 align="center" style="color: #00d4ff; margin-top: 5px;">Dev Pulse Backend</h3>
+  <p align="center"><strong>Secure User Allocation Suite</strong></p>
+  <p style="font-size: 13px; color: #cbd5e1;">Relational backend system architecture optimized for user registrations and high-throughput data operations. Secured with JWT role access validation.</p>
   <p align="center">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-    <img src="https://img.shields.io/badge/REST_API-00D4FF?style=flat-square"/>
   </p>
   <hr style="border-color: #1e293b; margin: 10px 0;"/>
   <p align="center">
-    <a href="https://github.com/MAshhabDev/coffee-server"><code>💻 Server Code</code></a>
+    <a href="https://github.com/MAshhabDev/Dev-Pulse-Backend"><code>💻 Code</code></a> &nbsp;&nbsp; 
+    <a href="https://dev-pulse-backend-ten.vercel.app/"><code>🌐 Live URL</code></a>
   </p>
 </td>
 </tr>
 
 <tr>
-<!-- CARD 3: TRAVEL GURU -->
+<td width="50%" valign="top" style="border: 1px solid #00d4ff; border-radius: 8px; padding: 15px; background: #020617;">
+  <p align="center"><img src="https://i.ibb.co.com/KjBH8tts/Screenshot-2026-05-30-134139.png" width="100%" alt="News Portal Website" /></p>
+  <h3 align="center" style="color: #00d4ff; margin-top: 5px;">News Portal Website</h3>
+  <p align="center"><strong>Dynamic Content Filtering Platform</strong></p>
+  <p style="font-size: 13px; color: #cbd5e1;">A responsive full-stack client portal featuring category pipelines, smooth content grids, and secure authorization state controls.</p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+    <img src="https://img.shields.io/badge/DaisyUI-5A00EE?style=flat-square&logo=daisyui&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white"/>
+
+  </p>
+  <hr style="border-color: #1e293b; margin: 10px 0;"/>
+  <p align="center">
+    <a href="https://github.com/MAshhabDev/Dragon-News"><code>💻 Code</code></a> &nbsp;&nbsp; 
+    <a href="https://dragon-news-fdc6a.web.app/category/0"><code>🌐 Live</code></a>
+  </p>
+</td>
+
 <td width="50%" valign="top" style="border: 1px solid #00d4ff; border-radius: 8px; padding: 15px; background: #020617;">
   <p align="center"><img src="https://i.ibb.co.com/C35PwkFQ/Travel.png" width="100%" alt="Travel Guru" /></p>
   <h3 align="center" style="color: #00d4ff; margin-top: 5px;">Travel Guru</h3>
   <p align="center"><strong>Interactive Tour Reservation Portal</strong></p>
-  <p style="font-size: 13px; color: #cbd5e1;">A client web system showcasing rich state context integrations with secure auth checks to preserve continuous data persistence.</p>
+  <p style="font-size: 13px; color: #cbd5e1;">A gorgeous travel web ecosystem displaying clean component architectural patterns, continuous routing, and dynamic data preservation.</p>
   <p align="center">
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
     <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
   </p>
   <hr style="border-color: #1e293b; margin: 10px 0;"/>
   <p align="center">
-    <a href="https://github.com/MAshhabDev"><code>💻 Code</code></a> &nbsp;&nbsp; 
+    <a href="https://github.com/MAshhabDev/Travel-Guru"><code>💻 Code</code></a> &nbsp;&nbsp; 
     <a href="https://travel-guru-tour.firebaseapp.com/"><code>🌐 Live</code></a>
-  </p>
-</td>
-
-<!-- CARD 4: DOCTOR APP -->
-<td width="50%" valign="top" style="border: 1px solid #00d4ff; border-radius: 8px; padding: 15px; background: #020617;">
-  <p align="center"><img src="https://web-dev-banners.vercel.app/api?title=Doctor+App+Suite&subtitle=Role+Based+Allocation&theme=dark" width="100%" alt="Doctor App" /></p>
-  <h3 align="center" style="color: #00d4ff; margin-top: 5px;">Doctor App</h3>
-  <p align="center"><strong>Role-Based Allocation Interface</strong></p>
-  <p style="font-size: 13px; color: #cbd5e1;">Complex interface system engineered to sort medical schedules instantly, preventing data component intersection bugs.</p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white"/>
-  </p>
-  <hr style="border-color: #1e293b; margin: 10px 0;"/>
-  <p align="center">
-    <a href="https://github.com/MAshhabDev"><code>💻 Client Code</code></a>
   </p>
 </td>
 </tr>
