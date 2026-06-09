@@ -78,7 +78,7 @@
 <table width="100%">
 <tr>
 <td width="50%" valign="top" style="border: 1px solid #00d4ff; border-radius: 8px; padding: 15px; background: #020617;">
-  <p align="center"><img src="https://i.ibb.co.com/VW5yc3wS/Black-and-White-Modern-Coffee-Shop-Presentation.png" width="100%" alt="Coffee Store" /></p>
+  <p align="center"><img src="https://i.ibb.co.com/NgZQBtJj/Coffee-Store.jpg" width="100%" alt="Coffee Store" /></p>
   <h3 align="center" style="color: #00d4ff; margin-top: 5px;">Coffee Shop Backend</h3>
   <p align="center"><strong>Modular MVC Inventory Engine</strong></p>
   <p style="font-size: 13px; color: #cbd5e1;">Modular backend server built from scratch to manage inventory, menu workflows, and orders. Features global error handling and strict routing.</p>
