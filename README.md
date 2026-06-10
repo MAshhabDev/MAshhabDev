@@ -145,6 +145,8 @@
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
     <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white"/>
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+        <img src="https://img.shields.io/badge/DaisyUI-5A00EE?style=flat-square&logo=daisyui&logoColor=white"/>
+
   </p>
   <hr style="border-color: #1e293b; margin: 10px 0;"/>
   <p align="center">
