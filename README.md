@@ -121,7 +121,7 @@
   <p align="center"><img src="https://i.ibb.co.com/KjBH8tts/Screenshot-2026-05-30-134139.png" width="100%" alt="News Portal Website" /></p>
   <h3 align="center" style="color: #00d4ff; margin-top: 5px;">News Portal Website</h3>
   <p align="center"><strong>Dynamic Content Filtering Platform</strong></p>
-  <p style="font-size: 13px; color: #cbd5e1;">A responsive full-stack client portal featuring category pipelines, smooth content grids, and secure authorization state controls.</p>
+  <p style="font-size: 13px; color: #cbd5e1;">A responsive full-stack client portal featuring category pipelines, smooth content grids, and secure authorization with state controls.</p>
   <p align="center">
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
