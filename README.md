@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="[YOUR_UPLOADED_BANNER_IMAGE_URL]" width="100%" alt="Mahir Ashhab Banner"/>
+  <img src="https://i.ibb.co.com/j91cZBYG/Purple-and-Black-Professional-Corporate-Business-Linked-In-Background-Photo-1.png" width="100%" alt="Mahir Ashhab Banner"/>
 </p>
+
+<h3 align="center"><font size="7">Hi 👋, I'm Mahir Ashhab</font></h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00D4FF&center=true&vCenter=true&width=550&lines=Backend+Engineer;Node.js+%26+Express+Specialist;Prisma+%26+PostgreSQL+Expert;Full-Stack+Next.js+Developer"/>
@@ -36,8 +38,8 @@
 
 ## 🌐 👤 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N5YnJ2MndhY2k1d3J2dzd0Z3B4amUzd3dmeXB0NXBsOWU4dHk4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WQrB3u1dNDh0RSmCnd/giphy.gif" width="25px"/> FOLLOW ME ON SOCIALS:
 
-<p align="center">
-  <a href="https://linkedin.com/in/mahir-ashhab-97a189224"><img src="https://skillicons.dev/icons?i=linkedin,discord,devto,stackoverflow" /></a>
+<p>
+  <a href="https://linkedin.com/in/mahir-ashhab-97a189224"><img src="https://skillicons.dev/icons?i=linkedin,discord,twitter" /></a>
 </p>
 
 <br/><br/>
@@ -116,7 +118,7 @@
     </td>
   </tr>
 
-  <!-- ROW 4: Action Links / Buttons (Clean Links, No Line Above) -->
+  <!-- ROW 4: Action Links / Buttons -->
   <tr>
     <td valign="bottom" style="border-left: 1px solid #00d4ff; border-right: 1px solid #00d4ff; padding: 15px 15px 5px 15px; background: #020617;">
       <p align="center" style="margin: 0;">
@@ -124,7 +126,7 @@
         <a href="https://coffee-store-jet.vercel.app/"><code>🌐 Live URL</code></a>
       </p>
     </td>
-    <td valign="bottom" style="border-left: 1px solid #00d4ff; border-right: 1px solid #00d4ff; padding: 15px 15px 5px 15px; background: #020617;">
+    <td valign="bottom" style="border-left: 1px solid #00d4ff; border-right: 1px solid #00d4ff; padding: 15px 15px 5px 15px; background: #000000;">
       <p align="center" style="margin: 0;">
         <a href="https://github.com/MAshhabDev/Dev-Pulse-Backend"><code>💻 Code</code></a> &nbsp;&nbsp; 
         <a href="https://dev-pulse-backend-ten.vercel.app/"><code>🌐 Live URL</code></a>
@@ -132,12 +134,12 @@
     </td>
   </tr>
 
-  <!-- TRANSPARENT SPACER ROW (ক্লিন ও গভীর ফাঁকা জায়গা লিংকগুলোর একদম নিচে) -->
+  <!-- 🟢 TRANSPARENT SPACER ROW (১ম ও ২য় লাইনের মাঝের নিখুঁত ফাঁকা স্পেস) -->
   <tr style="height: 45px;">
     <td colspan="2" style="border: none; background: transparent;"></td>
   </tr>
 
-  <!-- ROW 5: Project Images (Second Grid Line Inside Same Table) -->
+  <!-- ROW 5: Project Images -->
   <tr>
     <td width="50%" valign="top" style="border-left: 1px solid #00d4ff; border-top: 1px solid #00d4ff; border-right: 1px solid #00d4ff; border-top-left-radius: 8px; border-top-right-radius: 8px; padding: 15px 15px 0 15px; background: #020617;">
       <p align="center">
