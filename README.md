@@ -27,7 +27,7 @@
 
 🤖 I enjoy continuously learning new technologies and using **AI tools like Cursor, Claude, and ChatGPT** to improve productivity, explore new ideas, and speed up development while keeping the focus on writing clean, reliable code. I'm always excited to take on new challenges, collaborate with other developers, and continue growing as a software engineer.
 
-🔗 **Want to see more of my work? Feel free to explore my [Personal Portfolio Website](https://mahir-ashhab.vercel.app/)!**
+🔗 **Want to see more of my work? Feel free to explore my [Personal Portfolio Website](https://mahir-ashhab.vercel.app/)**
 
 
 <br/><br/>
