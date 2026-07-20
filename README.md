@@ -2,16 +2,11 @@
   <img src="https://i.ibb.co.com/j91cZBYG/Purple-and-Black-Professional-Corporate-Business-Linked-In-Background-Photo-1.png" width="100%" alt="Mahir Ashhab Banner"/>
 </p>
 
-<h3 align="center"><font size="7">Hi 👋, I'm Mahir Ashhab</font></h3>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&fontColor=00D4FF&text=Hi%20👋,%20I'm%20Mahir%20Ashhab&fontSize=38&height=80" alt="Mahir Ashhab"/>
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00D4FF&center=true&vCenter=true&width=550&lines=Backend+Engineer;Node.js+%26+Express+Specialist;Prisma+%26+PostgreSQL+Expert;Full-Stack+Next.js+Developer"/>
-</p>
-
-<p align="center">
-  <a href="https://mahir-ashhab.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit_My_Portfolio-090979?style=for-the-badge&logo=google-chrome&logoColor=00D4FF" alt="Portfolio Badge"/>
-  </a>
 </p>
 
 <p align="center">
@@ -30,16 +25,21 @@
 
 🐳 I'm also expanding my **DevOps knowledge by learning Docker** and modern deployment practices to better understand how applications are built, deployed, and maintained in production environments.
 
-🤖 I enjoy continuously learning new technologies and using **AI tools like Cursor, Claude, and ChatGPT** to improve productivity, explore new ideas, and speed up development while keeping the focus on writing clean, reliable code.
+🤖 I enjoy continuously learning new technologies and using **AI tools like Cursor, Claude, and ChatGPT** to improve productivity, explore new ideas, and speed up development while keeping the focus on writing clean, reliable code. I'm always excited to take on new challenges, collaborate with other developers, and continue growing as a software engineer.
 
-⚡ I'm always excited to take on new challenges, collaborate with other developers, and continue growing as a software engineer.
+🔗 **Want to see more of my work? Feel free to explore my [Personal Portfolio Website](https://mahir-ashhab.vercel.app/)!**
+
 
 <br/><br/>
 
 ## 🌐 👤 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N5YnJ2MndhY2k1d3J2dzd0Z3B4amUzd3dmeXB0NXBsOWU4dHk4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WQrB3u1dNDh0RSmCnd/giphy.gif" width="25px"/> FOLLOW ME ON SOCIALS:
 
+<!-- পোর্টফোলিওতে Vercel লোগো ব্যবহার করা হয়েছে এবং সব লিঙ্ক একই রাউন্ড ফর্মে আছে -->
 <p>
-  <a href="https://linkedin.com/in/mahir-ashhab-97a189224"><img src="https://skillicons.dev/icons?i=linkedin,discord,twitter" /></a>
+  <a href="https://mahir-ashhab.vercel.app/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/mahir-ashhab-97a189224" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
+  <a href="https://discord.com" target="_blank"><img src="https://skillicons.dev/icons?i=discord" alt="Discord"/></a>
+  <a href="https://twitter.com" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"/></a>
 </p>
 
 <br/><br/>
@@ -70,7 +70,7 @@
   <tr>
     <td width="50%" valign="top" style="border-left: 1px solid #00d4ff; border-top: 1px solid #00d4ff; border-right: 1px solid #00d4ff; border-top-left-radius: 8px; border-top-right-radius: 8px; padding: 15px 15px 0 15px; background: #020617;">
       <p align="center">
-        <img src="https://i.ibb.co.com/NgZQBtJj/Coffee-Store.jpg" width="100%" style="aspect-ratio: 16/9; object-fit: cover; border-radius: 4px; display: block;" alt="Coffee Store" />
+        <img src="https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?q=80&w=600" width="100%" style="aspect-ratio: 16/9; object-fit: cover; border-radius: 4px; display: block;" alt="Fixit-Now Backend" />
       </p>
     </td>
     <td width="50%" valign="top" style="border-left: 1px solid #00d4ff; border-top: 1px solid #00d4ff; border-right: 1px solid #00d4ff; border-top-left-radius: 8px; border-top-right-radius: 8px; padding: 15px 15px 0 15px; background: #020617;">
@@ -83,10 +83,10 @@
   <!-- ROW 2: Headings & Descriptions -->
   <tr>
     <td valign="top" style="border-left: 1px solid #00d4ff; border-right: 1px solid #00d4ff; padding: 0 15px; background: #020617;">
-      <h3 align="center" style="color: #00d4ff; margin-top: 10px; margin-bottom: 5px;">Coffee Shop Backend</h3>
-      <p align="center" style="margin-bottom: 10px;"><strong>Modular MVC Inventory Engine</strong></p>
+      <h3 align="center" style="color: #00d4ff; margin-top: 10px; margin-bottom: 5px;">Fixit-Now Backend</h3>
+      <p align="center" style="margin-bottom: 10px;"><strong>Transaction-Backed Reservation Engine</strong></p>
       <p style="font-size: 13px; color: #cbd5e1; min-height: 55px; margin-bottom: 0; line-height: 1.4;">
-        Modular backend server built from scratch to manage inventory, menu workflows, and orders. Features global error handling and strict routing.
+        Modular service booking engine optimized for customer reservations, technician assignments, and billing. Features Stripe webhook payment integration and custom validations.
       </p>
     </td>
     <td valign="top" style="border-left: 1px solid #00d4ff; border-right: 1px solid #00d4ff; padding: 0 15px; background: #020617;">
@@ -103,9 +103,9 @@
     <td valign="middle" style="border-left: 1px solid #00d4ff; border-right: 1px solid #00d4ff; padding: 15px 15px 0 15px; background: #020617;">
       <p align="center" style="margin: 0; display: flex; align-items: center; justify-content: center; gap: 4px; flex-wrap: wrap; height: 35px;">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Stripe-008FEE?style=flat-square&logo=stripe&logoColor=white"/>
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
       </p>
     </td>
     <td valign="middle" style="border-left: 1px solid #00d4ff; border-right: 1px solid #00d4ff; padding: 15px 15px 0 15px; background: #020617;">
@@ -122,11 +122,11 @@
   <tr>
     <td valign="bottom" style="border-left: 1px solid #00d4ff; border-right: 1px solid #00d4ff; padding: 15px 15px 5px 15px; background: #020617;">
       <p align="center" style="margin: 0;">
-        <a href="https://github.com/MAshhabDev/Coffee-Shop-Backend"><code>💻 Code</code></a> &nbsp;&nbsp; 
-        <a href="https://coffee-store-jet.vercel.app/"><code>🌐 Live URL</code></a>
+        <a href="https://github.com/MAshhabDev/Fixit-Now-Backend"><code>💻 Code</code></a> &nbsp;&nbsp; 
+        <a href="https://fixit-now-backend.onrender.com/"><code>🌐 Live URL</code></a>
       </p>
     </td>
-    <td valign="bottom" style="border-left: 1px solid #00d4ff; border-right: 1px solid #00d4ff; padding: 15px 15px 5px 15px; background: #000000;">
+    <td valign="bottom" style="border-left: 1px solid #00d4ff; border-right: 1px solid #00d4ff; padding: 15px 15px 5px 15px; background: #020617;">
       <p align="center" style="margin: 0;">
         <a href="https://github.com/MAshhabDev/Dev-Pulse-Backend"><code>💻 Code</code></a> &nbsp;&nbsp; 
         <a href="https://dev-pulse-backend-ten.vercel.app/"><code>🌐 Live URL</code></a>
@@ -134,7 +134,7 @@
     </td>
   </tr>
 
-  <!-- 🟢 TRANSPARENT SPACER ROW (১ম ও ২য় লাইনের মাঝের নিখুঁত ফাঁকা স্পেস) -->
+  <!-- 🟢 TRANSPARENT SPACER ROW -->
   <tr style="height: 45px;">
     <td colspan="2" style="border: none; background: transparent;"></td>
   </tr>
