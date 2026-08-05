@@ -230,7 +230,3 @@
   <br/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MAshhabDev&layout=compact&theme=dark"/>
 </p>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:020024&height=120&section=footer"/>
