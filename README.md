@@ -34,7 +34,6 @@
 
 ## 🌐 👤 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N5YnJ2MndhY2k1d3J2dzd0Z3B4amUzd3dmeXB0NXBsOWU4dHk4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WQrB3u1dNDh0RSmCnd/giphy.gif" width="25px"/> FOLLOW ME ON SOCIALS:
 
-<!-- পোর্টফোলিওতে Vercel লোগো ব্যবহার করা হয়েছে এবং সব লিঙ্ক একই রাউন্ড ফর্মে আছে -->
 <p>
   <a href="https://mahir-ashhab.vercel.app/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/mahir-ashhab-97a189224" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
