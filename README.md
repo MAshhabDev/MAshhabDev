@@ -37,7 +37,7 @@
 <p>
   <a href="https://mahir-ashhab.vercel.app/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/mahir-ashhab-97a189224" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
-  <a href="https://discord.com" target="_blank"><img src="https://skillicons.dev/icons?i=discord" alt="Discord"/></a>
+  <!-- <a href="https://discord.com" target="_blank"><img src="https://skillicons.dev/icons?i=discord" alt="Discord"/></a> -->
   <a href="https://twitter.com" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"/></a>
 </p>
 
